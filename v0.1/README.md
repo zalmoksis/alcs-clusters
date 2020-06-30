@@ -1,5 +1,5 @@
 
-# HST + IRAC v0.1
+# HST + IRAC v0.1 (beta)
 
 # Contents of this Release
 
